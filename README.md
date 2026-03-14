@@ -21,8 +21,8 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alfarisi-azmir&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=alfarisi-azmir&theme=dracula" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=farishhz&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=farishhz&theme=dracula" height="150" alt="trophy graph" />
 </div>
 
 ### 🕹️ Contribution Graph
