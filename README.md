@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif" />
+  <img height="150" src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif" />
   <img src="https://streak-stats.demolab.com?user=farishhz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
