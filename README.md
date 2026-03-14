@@ -1,7 +1,3 @@
-div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 <h1 align="center">Hey What's Up?</h1>
 
 ###
@@ -42,6 +38,7 @@ div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=farishhz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img align="left" height="160" src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif"  />
 </div>
 
 ###
