@@ -1,7 +1,7 @@
 <h1 align="center">Hey What's Up?</h1>
 
 <div align="center">
-  <img height="80" src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+  <img height="70" src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
 
 ###
