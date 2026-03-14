@@ -1,5 +1,9 @@
 <h1 align="center">Hey What's Up?</h1>
 
+<div align="center">
+  <img src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+</div>
+
 ###
 
 <div align="center">
@@ -55,11 +59,7 @@
 ###
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-</div> 
+  <img src="https://metrics.lecoq.io/farishhz?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" alt="Pacman Contribution Graph" />
+</div>
 
 ###
