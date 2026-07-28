@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://alfarisiazmir.my.id">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
