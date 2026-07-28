@@ -1,4 +1,4 @@
-<h1 align="center">Hey What's Up?</h1>
+<h1 align="center">Alfarisi Azmir</h1>
 
 <div align="center">
   <img height="70" src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
@@ -21,11 +21,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
 </div>
 
 ###
