@@ -52,7 +52,7 @@
 
 <td align="center" width="60%">
 
-<img src="https://streak-stats.demolab.com?user=farishhz&theme=dracula&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=farishhz&theme=dracula&hide_border=true" width="100%"/>
 
 </td>
 
