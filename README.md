@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfarisi Azmir</h1>
 
 <p align="center">
-  <b>Backend Developer • Cyber Security Enthusiast • Cloud Computing Learner</b>
+  <b>Backend Developer • Cybersecurity & Networking Enthusiast</b>
 </p>
 
 <div align="center">
