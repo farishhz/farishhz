@@ -7,32 +7,40 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="12" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook" />
+
+  <br><br>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
+
+  <br><br>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" />
+
+  <br><br>
+
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+
 </div>
 
 ###
