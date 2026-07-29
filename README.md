@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alfarisi Azmir</h1>
+<h1 align="center">Farishhz you can call me Mushr00w</h1>
 
 <p align="center">
   <b>Backend Developer • Cybersecurity & Networking Enthusiast • Open Source</b>
 </p>
 
 <div align="center">
-  <img height="70" src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"/>
+  <img height="35" src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"/>
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://tdctf.my.id">
-<img width="700"
+<img width="670"
 src="https://raw.githubusercontent.com/farishhz/assets/main/banner/tdctf-banner.png"/>
 
 </a>
