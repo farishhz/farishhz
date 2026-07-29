@@ -28,7 +28,7 @@
 
 <a href="https://tdctf.my.id">
 <img width="850"
-src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=TDCTF%20Platform&fontColor=F8FAFC&fontSize=42&desc=Modern%20Capture%20The%20Flag%20Platform%20for%20Learning,%20Competition%20and%20Community&descAlignY=68&descSize=18"/>
+src="https://raw.githubusercontent.com/farishhz/assets/main/banner/tdctf-banner.png"/>
 
 </a>
 
