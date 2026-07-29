@@ -10,6 +10,8 @@
 
 <br>
 
+<!-- Tech Stack -->
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,graphql,npm,nodejs,express,laravel,php,go,rust,py,postgres,mysql,firebase,supabase,docker,linux&perline=10"/>
@@ -17,6 +19,40 @@
 </div>
 
 <br>
+
+<!-- Featured Project -->
+
+<h2 align="center">Featured Project</h2>
+
+<div align="center">
+
+<a href="https://tdctf.my.id">
+<img width="850"
+src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=TDCTF%20Platform&fontColor=F8FAFC&fontSize=42&desc=Modern%20Capture%20The%20Flag%20Platform%20for%20Learning,%20Competition%20and%20Community&descAlignY=68&descSize=18"/>
+
+</a>
+
+</div>
+
+<p align="center">
+A modern <b>Capture The Flag (CTF)</b> platform built from scratch to provide real-world cybersecurity challenges, dynamic challenge management, live scoreboards, and competitive learning experiences.
+</p>
+
+<div align="center">
+
+<a href="https://tdctf.my.id">
+<img src="https://img.shields.io/badge/🌐_Website-Visit_TDCTF-111827?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+
+
+</div>
+
+<br>
+
+<!-- Social -->
 
 <div align="center">
 
@@ -40,40 +76,36 @@
 
 <br>
 
-<div align="center">
+<!-- Stats -->
 
 <table width="100%">
 <tr>
-<td align="center" width="20%">
 
+<td width="20%" align="center">
 <img src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif" width="170"/>
-
 </td>
 
-<td align="center" width="60%">
-
+<td width="60%" align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=farishhz&theme=dracula&hide_border=true" width="100%"/>
-
 </td>
 
-<td align="center" width="20%">
-
+<td width="20%" align="center">
 <img src="https://media1.tenor.com/m/a9D3bm9oZiAAAAAC/izumo-tenka.gif" width="170"/>
-
 </td>
+
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
-</div>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<img width="100%"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</picture>
