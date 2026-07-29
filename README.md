@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://tdctf.my.id">
-<img width="850"
+<img width="700"
 src="https://raw.githubusercontent.com/farishhz/assets/main/banner/tdctf-banner.png"/>
 
 </a>
