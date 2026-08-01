@@ -97,15 +97,3 @@ A modern <b>Capture The Flag (CTF)</b> platform built from scratch to provide re
 </table>
 
 <br>
-
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-<img width="100%"
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</picture>
