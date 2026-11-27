@@ -1,99 +1,55 @@
-<h1 align="center">Farishhz you can call me Mushr00w</h1>
+## Alfarisi Azmir
 
-<p align="center">
-  <b>Backend Developer • Cybersecurity & Networking Enthusiast • Open Source</b>
-</p>
+Software Engineer & Indie Builder (`farishhz` / `Mushr00w`) based in Indonesia.
+I build public-facing transit applications, cybersecurity platforms, and fast local-first developer tools — spanning backend systems, native mobile/desktop apps, and Linux networking.
 
-<div align="center">
-  <img height="35" src="https://count.getloli.com/@:farishhz?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"/>
-</div>
+[Portfolio](https://alfarisiazmir.my.id) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/alfarisiazmir) &nbsp;·&nbsp; [dev.to](https://dev.to/farishhz) &nbsp;·&nbsp; [Discord](https://discord.com/users/916228809408266261) &nbsp;·&nbsp; [Status](https://status.alfarisiazmir.my.id)
+
+---
+
+### Public Products
+
+#### [TransGood](https://transgood.app) — Real-Time 3D Jabodetabek Transit Radar
+
+<a href="https://transgood.app">
+  <img src="https://raw.githubusercontent.com/farishhz/transgood-android/main/docs/media/showcase-banner.png" width="760" alt="TransGood — Real-time 3D Jabodetabek transit map, live KRL radar, BMKG weather, and NFC transit card reader">
+</a>
+
+A free, ad-free commuter platform for **Web, Android, and iOS** unifying **7 Greater Jakarta & intercity transit networks** (KRL Commuter, MRT Jakarta, LRT Jakarta & Jabodebek, TransJakarta, JakLingko, Bikun UI, KAI, and KCIC Whoosh) in an interactive 2D/3D map. Includes 400+ live road CCTVs, hyper-local BMKG weather alerts, 8,200+ transit-adjacent culinary spots, 1,026 parks, background station arrival alarms, home screen widgets, and an offline NFC transit card balance reader.
+
+<a href="https://transgood.app"><b>transgood.app</b></a> &nbsp;·&nbsp; <a href="https://github.com/farishhz/transgood-android"><b>Releases &amp; Docs</b></a> &nbsp;·&nbsp; <a href="https://transgood.app/api/download?platform=android"><b>Android APK</b></a> &nbsp;·&nbsp; <a href="https://transgood.app/api/download?platform=ios"><b>iOS IPA</b></a> &nbsp;·&nbsp; <a href="https://github.com/farishhz/transgood-android/releases/latest"><img src="https://transgood.app/api/badge?type=release" height="18" align="absmiddle" alt="TransGood latest release"></a>
 
 <br>
 
-<!-- Tech Stack -->
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,graphql,npm,nodejs,express,laravel,php,go,rust,py,postgres,mysql,firebase,supabase,docker,linux&perline=10"/>
-
-</div>
-
-<br>
-
-<!-- Featured Project -->
-
-<h2 align="center">Featured Project</h2>
-
-<div align="center">
+#### [TDCTF](https://tdctf.my.id) — Public Capture The Flag Platform
 
 <a href="https://tdctf.my.id">
-<img width="670"
-src="https://raw.githubusercontent.com/farishhz/assets/main/banner/tdctf-banner.png"/>
-
+  <img src="https://raw.githubusercontent.com/farishhz/assets/main/banner/tdctf-banner.png" width="760" alt="TDCTF — Public Capture The Flag cybersecurity platform">
 </a>
 
-</div>
+A public **Capture The Flag (CTF)** cybersecurity competition and learning platform built from scratch. Designed for hands-on security challenges, live competitive scoreboards, and containerized challenge deployment backed by **[TDCTL](https://github.com/farishhz/tdctl)** — a custom CLI orchestrator with automated tunneling and TTL instance lifecycle controls.
 
-<p align="center">
-A modern <b>Capture The Flag (CTF)</b> platform built from scratch to provide real-world cybersecurity challenges, dynamic challenge management, live scoreboards, and competitive learning experiences.
-</p>
+<a href="https://tdctf.my.id"><b>tdctf.my.id</b></a> &nbsp;·&nbsp; <a href="https://github.com/farishhz/tdctl"><b>TDCTL Orchestrator</b></a>
 
-<div align="center">
+---
 
-<a href="https://tdctf.my.id">
-<img src="https://img.shields.io/badge/🌐_Website-Visit_TDCTF-111827?style=for-the-badge"/>
-</a>
+### Selected Open Source & Public Tools
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+| Project | Overview | Links |
+| :--- | :--- | :--- |
+| **[Hadirin](https://github.com/farishhz/Hadirin)** | Offline-first desktop attendance application (Windows & macOS, built with Tauri) for schools and boarding schools without server costs. | [Repository](https://github.com/farishhz/Hadirin) |
+| **[Vectra Icon](https://vectra.farishhz.my.id)** | Infinite-canvas icon explorer covering 200,000+ Iconify icons with fuzzy search, pan/drag workspace, color controls, and multi-format export. | [Live](https://vectra.farishhz.my.id) · [Repo](https://github.com/farishhz/Vectra-Icon) |
+| **[V-Table](https://vplus-table.vercel.app)** | Minimal design tool for styling presentation tables and exporting crisp high-resolution graphics. | [Live](https://vplus-table.vercel.app) · [Repo](https://github.com/farishhz/V-Table) |
+| **[Factize](https://www.factize.web.id)** | AI-assisted fact-checking and image manipulation forensics powered by dynamic RAG search (FastAPI & React). | [Live](https://www.factize.web.id) · [Repo](https://github.com/farishhz/factize) |
+| **[Service Status](https://status.alfarisiazmir.my.id)** | Automated uptime monitoring and public status page tracking active web services. | [Live](https://status.alfarisiazmir.my.id) · [Repo](https://github.com/farishhz/upptime) |
 
+---
 
+### Technical Focus
 
-</div>
-
-<br>
-
-<!-- Social -->
-
-<div align="center">
-
-<a href="https://linkedin.com/in/alfarisiazmir">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/916228809408266261">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/farishhz">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-
-<a href="https://alfarisiazmir.my.id">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- Stats -->
-
-<table width="100%">
-<tr>
-
-<td width="20%" align="center">
-<img src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif" width="170"/>
-</td>
-
-<td width="60%" align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=farishhz&theme=dracula&hide_border=true" width="100%"/>
-</td>
-
-<td width="20%" align="center">
-<img src="https://media1.tenor.com/m/a9D3bm9oZiAAAAAC/izumo-tenka.gif" width="170"/>
-</td>
-
-</tr>
-</table>
-
-<br>
+| Area | Stack |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Go, Rust, Python, Kotlin, Swift, PHP |
+| **Web & Client** | React, Next.js, Vue, Vite, Tailwind CSS, Android (Kotlin), iOS (Swift / CoreNFC), Tauri |
+| **Backend & Data** | Node.js, Express, FastAPI, Laravel, GraphQL, PostgreSQL, MySQL, Firebase, Supabase |
+| **Infrastructure & Security** | Linux, Docker, Cloudflare Workers, Vercel, Networking, CTF & Application Security |
