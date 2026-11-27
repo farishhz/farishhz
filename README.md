@@ -1,7 +1,7 @@
 <h2 align="center">Alfarisi Azmir</h2>
 
 <p align="center">
-  <code>farishhz</code> · <code>Mushr00w</code> &nbsp;—&nbsp; Software Engineer · Backend, Mobile &amp; Cybersecurity
+  <code>farishhz</code> &nbsp;—&nbsp; Software Engineer · Backend, Mobile &amp; Cybersecurity
 </p>
 
 <p align="center">
@@ -10,35 +10,13 @@
   <a href="https://github.com/sponsors/farishhz"><img src="assets/buttons/sponsor.svg" height="28" alt="Sponsor"></a>
   <a href="https://dev.to/farishhz"><img src="assets/buttons/devto.svg" height="28" alt="dev.to"></a>
   <a href="https://discord.com/users/916228809408266261"><img src="assets/buttons/discord.svg" height="28" alt="Discord"></a>
-  <a href="https://status.alfarisiazmir.my.id"><img src="assets/buttons/status.svg" height="28" alt="Status"></a>
 </p>
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://transgood.app"><img src="assets/transgood-logo.svg" width="56" height="56" alt="TransGood"></a>
-      <br>
-      <b>TransGood</b>
-      <br>
-      <sub>Real-time 3D Jabodetabek transit radar for Web, Android &amp; iOS.</sub>
-      <br><br>
-      <a href="https://transgood.app"><img src="assets/buttons/transgood-web.svg" height="22" alt="transgood.app"></a>
-      <a href="https://github.com/farishhz/transgood-android"><img src="assets/buttons/transgood-repo.svg" height="22" alt="TransGood Releases"></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://tdctf.my.id"><img src="assets/tdctf-logo.png" width="56" height="56" alt="TDCTF"></a>
-      <br>
-      <b>TDCTF</b>
-      <br>
-      <sub>Public Capture The Flag platform &amp; challenge orchestrator.</sub>
-      <br><br>
-      <a href="https://tdctf.my.id"><img src="assets/buttons/tdctf-web.svg" height="22" alt="tdctf.my.id"></a>
-      <a href="https://github.com/farishhz/tdctl"><img src="assets/buttons/tdctf-repo.svg" height="22" alt="tdctl"></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://transgood.app"><picture><source media="(prefers-color-scheme: light)" srcset="assets/cards/transgood-light.svg"><img src="assets/cards/transgood-dark.svg" width="330" alt="TransGood"></picture></a><img src="assets/cards/gap-16.svg" width="16" height="1" alt=""><a href="https://tdctf.my.id"><picture><source media="(prefers-color-scheme: light)" srcset="assets/cards/tdctf-light.svg"><img src="assets/cards/tdctf-dark.svg" width="330" alt="TDCTF"></picture></a><br><img src="assets/cards/gap-6v.svg" width="1" height="6" alt=""><br><a href="https://transgood.app"><img src="assets/buttons/transgood-web.svg" width="161" height="28" alt="transgood.app"></a><img src="assets/cards/gap-8.svg" width="8" height="1" alt=""><a href="https://github.com/farishhz/transgood-android"><img src="assets/buttons/transgood-repo.svg" width="161" height="28" alt="GitHub TransGood"></a><img src="assets/cards/gap-16.svg" width="16" height="1" alt=""><a href="https://tdctf.my.id"><img src="assets/buttons/tdctf-web.svg" width="161" height="28" alt="tdctf.my.id"></a><img src="assets/cards/gap-8.svg" width="8" height="1" alt=""><a href="https://github.com/farishhz/tdctl"><img src="assets/buttons/tdctf-repo.svg" width="161" height="28" alt="GitHub TDCTF"></a>
+</p>
 
 <br>
 
